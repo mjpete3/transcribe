@@ -5,7 +5,11 @@
         "@editor.snippetSuggestions": "top",
         "@editor.suggest.preview": true,
         "@editor.suggest.showMethods": true,
-        "@git.enableSmartCommit": true
+        "@git.enableSmartCommit": true,
+        "@git.githubAuthentication": ""
+    },
+    "instance": {
+        "@automaticShutdown": "30"
     },
     "language": {
         "tern_defs": {
